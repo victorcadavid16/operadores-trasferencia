@@ -45,3 +45,4 @@ alert("TOTAL DE PIEZAS FABRICADAS: " + totalPiezas);
 alert("CAJAS LLENAS: " + cajasLlenas);
 
 alert("PIEZAS SOBRANTES: " + piezasSobrantes);
+
